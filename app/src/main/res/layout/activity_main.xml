@@ -10,7 +10,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/total_question"
+        android:id="@+id/question_index"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Total Questions"
